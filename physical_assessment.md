@@ -3,7 +3,7 @@
 ## ABCDE
 - airway
 - breathing
-- circulation - blood pressure
+- circulation - includes blood pressure
 - disabilities
 - exposure - presentation of patient
 
@@ -12,6 +12,7 @@
 - environment - privacy, minimal distraction
 - equipment
 - patient preparation - explain procedures, make patient comfortable
+
 ## head toe assessment
 - general survey - apparent state of health, level of consciousness, signs of distress
 - vital signs
