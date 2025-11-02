@@ -5,6 +5,10 @@ title: Study Topics - Nursing
 
 # HEALTHCARE - VIDEOS AND ARTICLES - FOR STUDY / REVIEW
 
+# PHYSICAL ASSSESSMENT
+[Assessing](physical_assessment.md)
+
+
 # Table of Contents
 [Urinary](#urinary)  
 [Cardiovascular](#cardio)  
