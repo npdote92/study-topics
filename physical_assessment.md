@@ -1,6 +1,7 @@
 # Physical Assessment
 [Physical Examination: What Is a Physical Exam?](https://my.clevelandclinic.org/health/diagnostics/17366-physical-examination)
 
+
 ## ABCDE
 - airway
 - breathing
@@ -40,6 +41,31 @@
 - palpation - tactile / touch; use of hands
 - percussion - striking or tapping - percussion note / sound
 - auscultation - hearing; usage of stethoscope
+
+## Vital Signs
+[Vital signs - Wikipedia](https://en.wikipedia.org/wiki/Vital_signs)  
+[Vital Signs](https://my.clevelandclinic.org/health/articles/10881-vital-signs)  
+[Vital Signs (Body Temperature, Pulse Rate, Respiration Rate, Blood Pressure) | Johns Hopkins Medicine](https://www.hopkinsmedicine.org/health/conditions-and-diseases/vital-signs-body-temperature-pulse-rate-respiration-rate-blood-pressure)
+
+## Auscultation
+[Auscultation - Wikipedia](https://en.wikipedia.org/wiki/Auscultation)  
+[Auscultation - Physiopedia](https://www.physio-pedia.com/Auscultation)  
+[Auscultation: Definition, Purpose & Procedure](https://my.clevelandclinic.org/health/diagnostics/23080-auscultation)  
+[Chest Auscultation: Explanation & Procedure | Ausmed](https://www.ausmed.com.au/learn/articles/chest-auscultation)  
+[Heart & Lung Auscultation Points and Locations | Osmosis](https://www.osmosis.org/answers/auscultation)  
+[Auscultation of the respiratory system - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4518345/)
+
+### Palpation
+[Palpation - Wikipedia](https://en.wikipedia.org/wiki/Palpation)  
+[Palpation: MedlinePlus Medical Encyclopedia](https://medlineplus.gov/ency/article/002284.htm)  
+[Palpation Purpose & Technique](https://my.clevelandclinic.org/health/articles/palpation)  
+[The Role of Palpation in Medicine](https://www.verywellhealth.com/what-is-palpate-430300)
+
+## Percussion
+[Information on Percussion Techniques  - University Hospitals Sussex NHS Foundation Trust](https://www.uhsussex.nhs.uk/resources/information-on-percussion-techniques/)  
+[Percussion: MedlinePlus Medical Encyclopedia](https://medlineplus.gov/ency/article/002281.htm)  
+[Percussion - Physiopedia](https://www.physio-pedia.com/Percussion)  
+[Percussion (medicine) - Wikipedia](https://en.wikipedia.org/wiki/Percussion_\(medicine\))
 
 ## Glasgow Coma Scale (GCS)
 [Glasgow Coma Scale (GCS) | Ausmed](https://www.ausmed.com/learn/explainers/glasgow-coma-scale-gcs)  
