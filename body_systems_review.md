@@ -1,3 +1,8 @@
+---
+layout: default
+title: Body Systems Review
+---
+
 ## Endocrine
 - hypothalamus - oxytocin, ADH
 - anterior pituitary - thyroxin
@@ -58,8 +63,35 @@
 
 ## Musculoskeletal System
 - muscles
-	- skeletal
-	- smooth
-	- cardiac
+	- skeletal, smooth, cardiac
+	- muscles contract; they cannot push
+	- muscle fibre: actin, myosin
 - bones and joints
 - blood cell formation - hematopoiesis
+
+## Nervous System
+- afferent - *ad ferre* - carry towards
+- efferent - *ex ferre* - carry from/out of
+- neuron
+	- cell body - nucleus
+	- dendrites
+	- axon / nerve fibre
+		- myelin (insulation)
+- synapse
+- neurotransmitter - acetylcholine, dopamine
+- action potential
+- receptors
+- central nervous system
+	- brain
+		- cerebrum - the hemispheres are connected by **corpus callosum**
+		- cerebellum
+		- diencephalon
+		- brain stem: medulla oblongata, pons, midbrain / mesencephalon
+		- lobes of the brain: frontal, parietal, temporal, occipital
+		- basal ganglia
+	- spinal cord
+		- vertebral column
+- peripheral
+	- autonomous - involuntary control
+		- sympathetic, parasympathetic
+	- somatic - voluntary control

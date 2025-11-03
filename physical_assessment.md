@@ -1,4 +1,5 @@
 # Physical Assessment
+[Physical Examination: What Is a Physical Exam?](https://my.clevelandclinic.org/health/diagnostics/17366-physical-examination)
 
 ## ABCDE
 - airway
@@ -7,13 +8,13 @@
 - disabilities
 - exposure - presentation of patient
 
-## preparation for physical exam
+## Preparation for physical exam
 - infection prevention - PPE
 - environment - privacy, minimal distraction
 - equipment
 - patient preparation - explain procedures, make patient comfortable
 
-## head toe assessment
+## Head toe assessment
 - general survey - apparent state of health, level of consciousness, signs of distress
 - vital signs
 - integumentary - skin, hair, scalp, nails
@@ -34,7 +35,7 @@
 - genitalia
 - rectum, anus
 
-## physical assessment techniques
+## Physical assessment techniques
 - inspection - visual
 - palpation - tactile / touch; use of hands
 - percussion - striking or tapping - percussion note / sound

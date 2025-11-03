@@ -3,7 +3,7 @@ layout: default
 title: Study Topics - Nursing
 ---
 
-# HEALTHCARE - VIDEOS AND ARTICLES - FOR STUDY / REVIEW
+# HEALTHCARE - FOR STUDY / REVIEW
 ### Note to the end-user: this is not yet organized; it will be updated from time to time
 
 # EXTERNAL PAGES
