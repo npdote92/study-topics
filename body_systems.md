@@ -6,6 +6,7 @@ title: Study Topics - Body Systems
 # Table of Contents
 [Urinary](#urinary)  
 [Cardiovascular](#cardio)  
+[Lymphatic](#lymphatic)
 
 
 ## Urinary System<a name="urinary"></a>
@@ -26,3 +27,8 @@ title: Study Topics - Body Systems
 [Circulatory System | Pulmonary Circulation](https://www.youtube.com/watch?v=aJPwUnZtycQ)  
 [Coronary Arteries Made Easy: Learn & Never Forget](https://www.youtube.com/watch?v=WpMN7C7H8r8)  
 [Heart failure | Left versus Right Side Heart Failure](https://www.youtube.com/watch?v=YYaE3q1FNfc)
+
+## Lymphatic System<a name="lymphatic"></a>
+[The Biophysics of Lymphatic Transport](https://www.sciencedirect.com/science/article/pii/S2589004219304559)  
+[Physiology, Lymphatic System - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK557833/)  
+[Lymphatic Vessels and Their Surroundings](https://www.mdpi.com/2079-7737/9/12/463)
