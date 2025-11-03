@@ -1,8 +1,3 @@
----
-layout: default
-title: Body Systems Review
----
-
 ## Endocrine
 - hypothalamus - oxytocin, ADH
 - anterior pituitary - thyroxin
@@ -11,7 +6,7 @@ title: Body Systems Review
 - adrenal - epinephrine / adrenaline, norepinephrine, corticosteroid hormones
 - gonads - testes (androgens) / ovaries (estrogen, progesterone)
 
-[Anatomy of the Endocrine System | Johns Hopkins Medicine](https://www.hopkinsmedicine.org/health/wellness-and-prevention/anatomy-of-the-endocrine-system)
+[Anatomy of the Endocrine System - Johns Hopkins Medicine](https://www.hopkinsmedicine.org/health/wellness-and-prevention/anatomy-of-the-endocrine-system)
 
 # Digestive
 - mouth
@@ -91,7 +86,38 @@ title: Body Systems Review
 		- basal ganglia
 	- spinal cord
 		- vertebral column
+		- reflex
 - peripheral
 	- autonomous - involuntary control
 		- sympathetic, parasympathetic
 	- somatic - voluntary control
+
+## Urinary
+- average urine per day = 750mL
+- kidneys
+	- glomerulus
+	- nephron
+- ureters
+- bladder - can hold 500mL of urine for 2-5 hours
+- urethra
+
+## Reproductive system
+- male
+	- testes
+	- scrotum, epididymis, vas deferens
+	- prostate, seminal vesicles, Cowper's gland, penis/urethra
+	- semen - alkaline
+- female
+	- ovaries - follicles
+	- Fallopian tubes / oviducts
+	- uterus
+		- endometrium - lining of the uterus
+	- cervix
+	- vagina
+	- menstrual cycle
+		- follicular phase - FSH
+		- ovulation
+		- luteal phase - luteinizing hormone
+		- menstruation
+- fertilization
+- pregnancy
