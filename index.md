@@ -29,9 +29,8 @@ Welcome! This GitHub Pages site is my personal, ever-evolving collection of note
 ## Youtube Channels<a name="youtube"></a>
 [Dr Matt & Dr Mike](https://www.youtube.com/@DrMattDrMike)  
 [Siebert Science](https://www.youtube.com/@SiebertScience)  
-[RegisteredNurseRN](https://www.youtube.com/@RegisteredNurseRN)
-[Ninja Nerd](https://www.youtube.com/@NinjaNerdOfficial/featured)  
-[Dr Matt & Dr Mike](https://www.youtube.com/@DrMattDrMike)  
+[RegisteredNurseRN](https://www.youtube.com/@RegisteredNurseRN)  
+[Ninja Nerd](https://www.youtube.com/@NinjaNerdOfficial)  
 [Sam Webster](https://www.youtube.com/@SamWebster)  
 [The Noted Anatomist](https://www.youtube.com/thenotedanatomist)  
 [Institute of Human Anatomy](https://www.youtube.com/@theanatomylab)  
@@ -48,7 +47,7 @@ Welcome! This GitHub Pages site is my personal, ever-evolving collection of note
 
 ## Recommended Softwares<a name="software"></a>
 Notepad replacement:  
-Notepad++ | https://notepad-plus-plus.org/
+Notepad++ | [(https://notepad-plus-plus.org/)]
 
 Digital notetaking / personal knowledge base:  
 Obsidian | https://obsidian.md/
