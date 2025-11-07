@@ -46,7 +46,7 @@ Welcome! This GitHub Pages site is my personal, ever-evolving collection of note
 [Music Playlist - Youtube - Assorted](https://www.youtube.com/watch_videos?video_ids=IG1_gQF31z0,U8rGEOlWeVk,eWLy_4D3L3E,6dUbtl_-_v0,4bwnO0FQp1s,IYiY5oVmrzo,slUhVTAznMo,kRJKB291Z1g,xB-RZqcoIgo,nn_0zPAfyo8,5NHLXMBDum4,KSzCwOtWI-s,cKsAj_-Whws,gPxxzmOcZMU,WwO3ChcaxO0,iJ_N4CJr5oM,JSD4XCBWzvs,DXt6EGHFkWc,dOKaC-w8XpU,j0W78dgSLEc)  
 [Submit Your Song Suggestions](https://forms.gle/yDccHngGLeCU1hR68)
 
-## Recommended Softwares<a name="softwares"></a>
+## Recommended Softwares<a name="software"></a>
 Notepad replacement:  
 Notepad++ | https://notepad-plus-plus.org/
 
