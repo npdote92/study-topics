@@ -47,16 +47,16 @@ Welcome! This GitHub Pages site is my personal, ever-evolving collection of note
 
 ## Recommended Softwares<a name="software"></a>
 Notepad replacement:  
-Notepad++ | [https://notepad-plus-plus.org/](https://notepad-plus-plus.org/)
+Notepad++ | <https://notepad-plus-plus.org/>
 
 Digital notetaking / personal knowledge base:  
-Obsidian | [https://obsidian.md/](https://obsidian.md/)
+Obsidian | <https://obsidian.md/>
 
 PDF editing and page extraction:  
-PDF Gear | https://www.pdfgear.com/
+PDF Gear | <https://www.pdfgear.com/>
 
 Flashcards:  
 Anki | <https://apps.ankiweb.net/>
 
 Source code editor:  
-VSCode | https://code.visualstudio.com/
+VSCode | <https://code.visualstudio.com/>
