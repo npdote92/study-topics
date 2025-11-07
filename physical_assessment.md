@@ -1,3 +1,8 @@
+---
+layout: default
+title: Study Topics - Physical Exam
+---
+
 # Physical Assessment
 [Physical Examination: What Is a Physical Exam?](https://my.clevelandclinic.org/health/diagnostics/17366-physical-examination)
 
@@ -42,6 +47,12 @@
 - percussion - striking or tapping - percussion note / sound
 - auscultation - hearing; usage of stethoscope
 
+## Head-Toe Assessment<a name="headtoe"></a>
+[How Doctors Use Stethoscopes | The Doctor's Toolkit](https://www.youtube.com/watch?v=BIygVkBwcxU)  
+[Head-to-Toe Assessment Nursing | Nursing Physical Health Assessment Exam Skills](https://www.youtube.com/watch?v=gG8kh8MfnGY)  
+[Head to Toe Assessment Nursing Guide: Complete Physical Assessment | Mini Lesson Series](https://www.youtube.com/watch?v=K4747smFf8Q)  
+[Respiratory Examination | OSCE Guide | UKMLA | CPSA | PLAB 2](https://www.youtube.com/watch?v=q6w3CClfhdk)
+
 ## Vital Signs
 [Vital signs - Wikipedia](https://en.wikipedia.org/wiki/Vital_signs)  
 [Vital Signs](https://my.clevelandclinic.org/health/articles/10881-vital-signs)  
@@ -67,7 +78,7 @@
 [Percussion - Physiopedia](https://www.physio-pedia.com/Percussion)  
 [Percussion (medicine) - Wikipedia](https://en.wikipedia.org/wiki/Percussion_\(medicine\))
 
-## Glasgow Coma Scale (GCS)
+## Glasgow Coma Scale (GCS) - Test of Neurological Function
 [Glasgow Coma Scale (GCS) | Ausmed](https://www.ausmed.com/learn/explainers/glasgow-coma-scale-gcs)  
 [Glasgow Coma Scale (GCS): What It Is, Interpretation & Chart](https://my.clevelandclinic.org/health/diagnostics/24848-glasgow-coma-scale-gcs)  
 [Glasgow Coma Scale - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK513298/)

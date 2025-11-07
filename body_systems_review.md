@@ -1,3 +1,7 @@
+---
+layout: default
+title: Study Topics - Body Systems Review
+---
 ## Endocrine
 - hypothalamus - oxytocin, ADH
 - anterior pituitary - thyroxin
@@ -8,7 +12,7 @@
 
 [Anatomy of the Endocrine System - Johns Hopkins Medicine](https://www.hopkinsmedicine.org/health/wellness-and-prevention/anatomy-of-the-endocrine-system)
 
-# Digestive
+## Digestive
 - mouth
 - tongue
 - salivary glands
@@ -48,7 +52,8 @@
 	- systole and diastole
 	- normal BP = 120/80 mmHg
 - electrocardiography / ECG
-## lymphatic system
+
+## Lymphatic system
 - lymph
 - lymph vessels, lymph nodes
 - spleen, thymus, tonsils
