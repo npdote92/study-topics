@@ -3,21 +3,15 @@ layout: default
 title: Study Topics - Body Systems
 ---
 
-# Table of Contents
-[Urinary](#urinary)  
+# Table of Contents - BODY SYSTEMS
+
 [Cardiovascular](#cardio)  
-[Lymphatic](#lymphatic)
+[Nervous](#nervous)  
+[Lymphatic](#lymphatic)  
+[Urinary](#urinary)  
 
-
-## Urinary System<a name="urinary"></a>
-[Kidney and Nephron Anatomy Structure Function | Renal Function System](https://www.youtube.com/watch?v=0qZxw0Nd1lI)  
-[The Urinary System](https://www.youtube.com/watch?v=fEUndCU6uLk)  
-[Renal | Filtration, Reabsorption, and Secretion: Overview](https://www.youtube.com/watch?v=rwZIT_N75Bs)  
-[The Urinary System](https://www.youtube.com/watch?v=H2VkW9L5QSU)  
-[Renal System - Overview](https://www.youtube.com/watch?v=ZvHCKt2BJHg)  
-[Urinary System | Structure, Function, Plastinated Kidney and Bladder, 3D Model](https://www.youtube.com/watch?v=70q0ccJGp_k)  
-[Nephrons - Filtration and Reabsorption Basics](https://www.youtube.com/watch?v=OEzKQmqV2WQ)  
-[Excretory System and the Nephron](https://www.youtube.com/watch?v=q5qaGHfdmYM)
+## Nervous System<a name="nervous"></a>
+[12 Cranial Nerves - Siebert Science](https://www.youtube.com/watch?v=mowm8hPjTNU)
 
 ## Cardiovascular System<a name="cardio"></a>
 [The Cardiac Cycle Song](https://www.youtube.com/watch?v=tO_jryZbVVA)  
@@ -32,3 +26,13 @@ title: Study Topics - Body Systems
 [The Biophysics of Lymphatic Transport](https://www.sciencedirect.com/science/article/pii/S2589004219304559)  
 [Physiology, Lymphatic System - StatPearls - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK557833/)  
 [Lymphatic Vessels and Their Surroundings](https://www.mdpi.com/2079-7737/9/12/463)
+
+## Urinary System<a name="urinary"></a>
+[Kidney and Nephron Anatomy Structure Function | Renal Function System](https://www.youtube.com/watch?v=0qZxw0Nd1lI)  
+[The Urinary System](https://www.youtube.com/watch?v=fEUndCU6uLk)  
+[Renal | Filtration, Reabsorption, and Secretion: Overview](https://www.youtube.com/watch?v=rwZIT_N75Bs)  
+[The Urinary System](https://www.youtube.com/watch?v=H2VkW9L5QSU)  
+[Renal System - Overview](https://www.youtube.com/watch?v=ZvHCKt2BJHg)  
+[Urinary System | Structure, Function, Plastinated Kidney and Bladder, 3D Model](https://www.youtube.com/watch?v=70q0ccJGp_k)  
+[Nephrons - Filtration and Reabsorption Basics](https://www.youtube.com/watch?v=OEzKQmqV2WQ)  
+[Excretory System and the Nephron](https://www.youtube.com/watch?v=q5qaGHfdmYM)

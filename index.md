@@ -46,17 +46,17 @@ Welcome! This GitHub Pages site is my personal, ever-evolving collection of note
 [Submit Your Song Suggestions](https://forms.gle/yDccHngGLeCU1hR68)
 
 ## Recommended Softwares<a name="software"></a>
-Notepad replacement:  
+**Notepad replacement**:  
 Notepad++ | <https://notepad-plus-plus.org/>
 
-Digital notetaking / personal knowledge base:  
+**Digital notetaking / personal knowledge base**:  
 Obsidian | <https://obsidian.md/>
 
-PDF editing and page extraction:  
+**PDF editing and page extraction**:  
 PDF Gear | <https://www.pdfgear.com/>
 
-Flashcards:  
+**Flashcards**:  
 Anki | <https://apps.ankiweb.net/>
 
-Source code editor:  
+**Source code editor**:  
 VSCode | <https://code.visualstudio.com/>
