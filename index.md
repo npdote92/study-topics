@@ -42,8 +42,10 @@ Welcome! This GitHub Pages site is my personal, ever-evolving collection of note
 [BODY SYSTEMS - REVIEW/SUMMARY](body_systems_review.md)  
 
 ## Others<a name="music"></a>
-[Music Playlist - Youtube - Assorted](https://www.youtube.com/watch_videos?video_ids=IG1_gQF31z0,U8rGEOlWeVk,eWLy_4D3L3E,6dUbtl_-_v0,4bwnO0FQp1s,IYiY5oVmrzo,slUhVTAznMo,kRJKB291Z1g,xB-RZqcoIgo,nn_0zPAfyo8,5NHLXMBDum4,KSzCwOtWI-s,cKsAj_-Whws,gPxxzmOcZMU,WwO3ChcaxO0,iJ_N4CJr5oM,JSD4XCBWzvs,DXt6EGHFkWc,dOKaC-w8XpU,j0W78dgSLEc)  
-[Submit Your Song Suggestions](https://forms.gle/yDccHngGLeCU1hR68)
+[Music Playlist - Youtube - Assorted](https://www.youtube.com/watch_videos?video_ids=IG1_gQF31z0,U8rGEOlWeVk,eWLy_4D3L3E,6dUbtl_-_v0,4bwnO0FQp1s,IYiY5oVmrzo,slUhVTAznMo,kRJKB291Z1g,xB-RZqcoIgo,nn_0zPAfyo8,5NHLXMBDum4,KSzCwOtWI-s,cKsAj_-Whws,gPxxzmOcZMU,WwO3ChcaxO0,iJ_N4CJr5oM,JSD4XCBWzvs,DXt6EGHFkWc,dOKaC-w8XpU,j0W78dgSLEc,i_rw1C9eG_Q)  
+[Temper Trap](https://www.youtube.com/watch_videos?video_ids=C4_yFX4cvE8,3Hbr-I_FWDQ,tz0Fl742Xx4,IWG3AJwW5HM,L_GbPuWDekM,6dUbtl_-_v0)  
+[Olivia Dean](https://www.youtube.com/watch_videos?video_ids=DXt6EGHFkWc,YFSEc_cANhw,7f_mlKlOLMo,oW_nP__Lk_U,uxIjDwmc3uU,paKBrvjuemo,lrS1LC2cu-U,irpBEiQDSuo,cbOR9n9Yx1A)  
+[**Submit Your Song Suggestions**](https://forms.gle/yDccHngGLeCU1hR68)
 
 ## Recommended Softwares<a name="software"></a>
 **Notepad replacement**:  
