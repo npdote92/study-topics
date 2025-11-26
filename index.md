@@ -24,7 +24,7 @@ Welcome! This GitHub Pages site is my personal, ever-evolving collection of note
 [Creatinine Clearance Test: Purpose, Levels & Results](https://my.clevelandclinic.org/health/diagnostics/16380-creatinine-clearance-test)  
 [Blood Glucose (Sugar) Test: Levels & What They Mean](https://my.clevelandclinic.org/health/diagnostics/12363-blood-glucose-test)  
 [Hematocrit Test: What It Is, Levels, and High & Low Range](https://my.clevelandclinic.org/health/diagnostics/17683-hematocrit)  
-[Complete Blood Count (CBC): What It Is & Normal Ranges](https://my.clevelandclinic.org/health/diagnostics/4053-complete-blood-count)
+[Complete Blood Count (CBC): What It Is & Normal Ranges](https://my.clevelandclinic.org/health/diagnostics/4053-complete-blood-count)  
 [Blood Culture: Purpose, Procedure, and Risks](https://www.healthline.com/health/blood-culture)  
 [Blood Culture Test: Purpose, Procedure, Results](https://www.webmd.com/a-to-z-guides/what-is-a-blood-culture-test)  
 [C-reactive protein (CRP) blood test — what your results mean | healthdirect](https://www.healthdirect.gov.au/c-reactive-protein-CRP-blood-test)  
