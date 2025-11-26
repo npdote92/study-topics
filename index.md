@@ -52,7 +52,7 @@ Welcome! This GitHub Pages site is my personal, ever-evolving collection of note
 [Temper Trap](https://www.youtube.com/watch_videos?video_ids=C4_yFX4cvE8,3Hbr-I_FWDQ,tz0Fl742Xx4,IWG3AJwW5HM,Z50DHJsbMSM,L_GbPuWDekM,6dUbtl_-_v0)  
 [Olivia Dean](https://www.youtube.com/watch_videos?video_ids=DXt6EGHFkWc,YFSEc_cANhw,7f_mlKlOLMo,oW_nP__Lk_U,uxIjDwmc3uU,paKBrvjuemo,lrS1LC2cu-U,irpBEiQDSuo,cbOR9n9Yx1A)  
 [Music Playlist - Youtube - Assorted 2](https://www.youtube.com/watch_videos?video_ids=_23zdGnEa7k,18Bz6jmmHWo,W2_KHi9BHE4)  
-[Hispanic](https://www.youtube.com/watch_videos?video_ids=P59nEZ-8mDo,ZzVyq7QFGP4,yG9VoYOgBAg,486vIyoz138)
+[Hispanic](https://www.youtube.com/watch_videos?video_ids=P59nEZ-8mDo,ZzVyq7QFGP4,yG9VoYOgBAg,486vIyoz138)  
 [**Submit Your Song Suggestions**](https://forms.gle/yDccHngGLeCU1hR68)
 
 ## Recommended Softwares<a name="software"></a>

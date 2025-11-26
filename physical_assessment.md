@@ -92,4 +92,8 @@ title: Study Topics - Physical Exam
 [Abdominal Exam Demo (Strong Exam) - YouTube](https://www.youtube.com/watch?v=1ptbMT3_ZjM)
 
 ## Respiratory Lung Assessment
-[Respiratory Lung Auscultation | Health Assessment for Nursing Students - YouTube](https://www.youtube.com/watch?v=9j0JsdbIXKo)
+[Respiratory Lung Auscultation | Health Assessment for Nursing Students - YouTube](https://www.youtube.com/watch?v=9j0JsdbIXKo)  
+
+  
+
+[Back to Homepage](https://npdote92.github.io/study-topics/)
