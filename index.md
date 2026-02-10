@@ -45,18 +45,21 @@ Welcome! This GitHub Pages site is my personal, ever-evolving collection of note
 [BODY SYSTEMS - LINKS](body_systems.md)  
 [BODY SYSTEMS - REVIEW/SUMMARY](body_systems_review.md)  
 [HANDOVER - ISBAR](handover_isbar.md)  
+[ELDER CARE - DEMENTIA](elder_care.md)  
 
 
 ## Others - Music<a name="music"></a>
 [Music Playlist - Youtube - Assorted](https://www.youtube.com/watch_videos?video_ids=IG1_gQF31z0,U8rGEOlWeVk,eWLy_4D3L3E,6dUbtl_-_v0,4bwnO0FQp1s,IYiY5oVmrzo,slUhVTAznMo,kRJKB291Z1g,xB-RZqcoIgo,nn_0zPAfyo8,5NHLXMBDum4,KSzCwOtWI-s,cKsAj_-Whws,gPxxzmOcZMU,WwO3ChcaxO0,iJ_N4CJr5oM,JSD4XCBWzvs,DXt6EGHFkWc,dOKaC-w8XpU,j0W78dgSLEc,i_rw1C9eG_Q)  
 [Olivia Dean](https://www.youtube.com/watch_videos?video_ids=DXt6EGHFkWc,YFSEc_cANhw,FX1_FXlKxXY,oW_nP__Lk_U,uxIjDwmc3uU,paKBrvjuemo,lrS1LC2cu-U,irpBEiQDSuo,cbOR9n9Yx1A,_hgu16lRfbQ,DhvTTo71yVs)  
-[The Marias](https://www.youtube.com/watch_videos?video_ids=5Y3rAfAafcQ,N5jD5CI93JM,dS9pjB6FqVQ,rsmtdQNStrc,Kp9g2_SoRHU,RyZNIw_IHpo,6kghtNfJis8,RXA6FvsVgc8,ZUDBd-md0VE,nTejAxg7byc,vFYWr25F5cc,Ah_Ig6wggtI,aD-uDd54560,IOEqWjLn4DY,s-8lUvdmnlQ,kPb7qcwwHSk,UYqv0-sKsWw,HnXzzTIFu_U,2bkvMcpSvXs,pzmpoxEYRik,y2ZdqYde2yQ,75DORZ43PrI,RdA5yMQ2o0Q)  
+[The Marias](https://www.youtube.com/watch_videos?video_ids=5Y3rAfAafcQ,N5jD5CI93JM,dS9pjB6FqVQ,rsmtdQNStrc,Kp9g2_SoRHU,RyZNIw_IHpo,6kghtNfJis8,OavvDEV9CYs,RXA6FvsVgc8,ZUDBd-md0VE,nTejAxg7byc,vFYWr25F5cc,Ah_Ig6wggtI,aD-uDd54560,IOEqWjLn4DY,s-8lUvdmnlQ,kPb7qcwwHSk,UYqv0-sKsWw,HnXzzTIFu_U,2bkvMcpSvXs,pzmpoxEYRik,y2ZdqYde2yQ,75DORZ43PrI,RdA5yMQ2o0Q,ScTkEsOKfvg)  
+[Not for Radio](https://www.youtube.com/watch_videos?video_ids=EAEK2rtc8yA,6EVeiBucZzg,Wp87c0rdctM,jXH7QKgcqtI)  
 [Hispanic](https://www.youtube.com/watch_videos?video_ids=P59nEZ-8mDo,ZzVyq7QFGP4,yG9VoYOgBAg,486vIyoz138)  
 [Kid Laroi](https://www.youtube.com/watch_videos?video_ids=TnwvQ9zxYY4,tFXnN6Onrbg,dFr4NU9C0HE,p03BfZWGKDw,2mIvA5HRWvw,NZn5MsKTWDQ,)
 [Temper Trap](https://www.youtube.com/watch_videos?video_ids=C4_yFX4cvE8,3Hbr-I_FWDQ,tz0Fl742Xx4,IWG3AJwW5HM,Z50DHJsbMSM,L_GbPuWDekM,6dUbtl_-_v0)  
 [OPM](https://www.youtube.com/watch_videos?video_ids=hBvBWR3uKMY,76h073aB9u0,5MAJ46mi-dQ,ntm6Fj_kweo,HenPGzcH51E,j71Szf8-MKU,LdlcKUagPkM,bom38jTWC60,1qcI0t0s1eg,tB8ecr4Fiss)  
 [Korea](https://www.youtube.com/watch_videos?video_ids=tdzUmuXRivs,jXwR4_58uy0,enoCjlmHM5o,8J1b4znVbEI,xr3IYGlFUnY,YqG2ytfXG9c,9-CMEIj0M0s)  
 [East Europe](https://www.youtube.com/watch_videos?video_ids=kGHp2Ita5R8,2ca-IH32MM8)  
+[Hiphop Rnb](https://www.youtube.com/watch_videos?video_ids=I177W0XJlT4,YVLHaqeJzEk,B_1moEBS4TE,_eDpH4hMW1o,z3JmMF6dGGk,H64QG4UsrGI,4uEUiodPr7E,ciUBcxqAuaI,aMkp2eRU5r4,jI-w4gvkCkQ,3C3RgfBWp20,xUZDRCvwGhg,raWSH1KrgFI,RVRRW-QzqxM,ifhrSc5Ke5g,pAQBrTl4KLo,0T4gqGW4yTY,NHPpA73JkuQ,lUb34agCjG4,0VGjV8Suyvg)
 [Music Playlist - Youtube - Assorted 2](https://www.youtube.com/watch_videos?video_ids=_23zdGnEa7k,18Bz6jmmHWo,W2_KHi9BHE4,0vYpLnBJd10,9laxkgebw00,b1PQtIcIxDI,dCDC4loN30o,5QhbamEGl-Y,1lrFsXkT_rM)  
 
 [**Submit Your Song Suggestions**](https://forms.gle/yDccHngGLeCU1hR68)
